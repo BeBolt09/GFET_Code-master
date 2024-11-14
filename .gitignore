@@ -1,0 +1,7 @@
+*.csv
+__pycache__
+data/*
+other_assets/*
+*.json
+build/*
+main.spec
